@@ -84,7 +84,7 @@ Frontend-разработчик (React + Next.js + TypeScript) / DevOps
 
 ## Проекты
 
-- [Заметочки](https://zametochki.ru): заметки, доски и пространства для совместной работы
+- [Заметочки]([https://zametochki.ru](https://заметочки.com/)): заметки, доски и пространства для совместной работы
 
 - [Блог-платформа](https://github.com/Azamachik/production-project) (аналог Хабра)
 
